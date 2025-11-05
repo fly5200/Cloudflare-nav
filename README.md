@@ -21,7 +21,7 @@
 ![Material UI](https://img.shields.io/badge/Material_UI-7.0-0081cb)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers-f38020)
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/fly5200/Cloudflare-Navy)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/fly5200/Cloudflare-Nav)
 
 </div>
 
